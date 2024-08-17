@@ -1,1 +1,1 @@
-Cans pratice and maybe more edit this readme later
+CANS practice and maybe edit this readme later.
