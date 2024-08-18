@@ -1,1 +1,1 @@
-Cans pratice and maybe more edit this readme later
+This code is working on dummy data to practice using CANS 
